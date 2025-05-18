@@ -1,0 +1,1 @@
+public abstract class UI_WorldSpace : UI_Base { }
